@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ FDI Analytics Toolbox
+# ⚡ FDI Analytics Toolbox &nbsp; <sup>v1.1</sup>
 
 ### Unsupervised Fault Detection & Identification for Industrial Sensor Data
 
@@ -25,19 +25,19 @@ Upload a CSV, walk a six-stage pipeline, get fault windows, root-cause rankings,
 
 | 🏠 Home — Data Explorer | ⚙️ Pre-processing |
 |:---:|:---:|
-| ![Home](assets/screen_home.png) | ![Pre-processing](assets/screen_preprocessing.png) |
+| ![Home](assets/screen_home.JPG) | ![Pre-processing](assets/screen_preprocessing.JPG) |
 
 | 📊 Feature Extraction | 🚨 Fault Detection |
 |:---:|:---:|
-| ![Features](assets/screen_features.png) | ![Detection](assets/screen_detection.png) |
+| ![Features](assets/screen_features.JPG) | ![Detection](assets/screen_detection.JPG) |
 
 | 🔍 Fault Identification | 📋 Report & Export |
 |:---:|:---:|
-| ![Identification](assets/screen_identification.png) | ![Report](assets/screen_report.png) |
+| ![Identification](assets/screen_identification.JPG) | ![Report](assets/screen_report.JPG) |
 
 | 🤖 AI Assistant — dataset-aware analysis guidance |
 |:---:|
-| ![AI Assistant](assets/screen_ai_assistant.png) |
+| ![AI Assistant](assets/screen_ai_assistant.JPG) |
 
 ---
 
