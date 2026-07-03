@@ -9,6 +9,7 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.5-orange?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-optional-red?logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Azure](https://img.shields.io/badge/Azure%20App%20Service-Live-0078D4?logo=microsoftazure&logoColor=white)](https://fdi-analytics-app.azurewebsites.net)
+[![Version](https://img.shields.io/badge/Version-1.1-brightgreen)](#)
 [![License](https://img.shields.io/badge/License-Proprietary-lightgrey)](#license)
 
 **No labeled fault data. No code. No installation.**
@@ -33,6 +34,10 @@ Upload a CSV, walk a six-stage pipeline, get fault windows, root-cause rankings,
 | 🔍 Fault Identification | 📋 Report & Export |
 |:---:|:---:|
 | ![Identification](assets/screen_identification.png) | ![Report](assets/screen_report.png) |
+
+| 🤖 AI Assistant — dataset-aware analysis guidance |
+|:---:|
+| ![AI Assistant](assets/screen_ai_assistant.png) |
 
 ---
 
@@ -60,6 +65,8 @@ Upload a CSV, walk a six-stage pipeline, get fault windows, root-cause rankings,
 - 🎓 Students learning signal processing and unsupervised ML in an applied setting
 
 > **Key principle:** a short segment of normal operation is used as a baseline — everything that deviates from it is scored and ranked automatically.
+
+> **Version:** Currently at v1.1. See the [Roadmap](#-roadmap--version-2) for what's coming next.
 
 > **Note:** This project is hosted as a live web application. Source code is not publicly distributed. See [License](#-license).
 
