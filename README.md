@@ -39,7 +39,7 @@ A short segment of normal operation serves as the baseline. Everything that devi
 
 ## Technical Poster
 
-![FDI Analytics Technical Poster](assets/poster.JPG)
+![FDI Analytics Technical Poster](assets/poster.jpg)
 
 ---
 
